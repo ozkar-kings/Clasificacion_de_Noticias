@@ -1,1 +1,1 @@
-# Clasificaci-n_de_Noticias
+#Uso de rede neuronal para clasificar noticias en 4 categorias
